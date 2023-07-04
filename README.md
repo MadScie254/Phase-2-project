@@ -20,7 +20,7 @@ The primary stakeholder audience for this project is a real estate agency that h
 The project utilizes the King County House Sales dataset, which can be found in the `data/` folder of this repository (`kc_house_data.csv`). The dataset provides information on various features of the houses, such as the number of bedrooms, bathrooms, square footage, condition, grade, and more. By analyzing this dataset, we can gain insights into the factors that affect house prices in the northwestern county.
 
 ## Modeling
-To achieve the project objectives, we employ a regression modeling approach. Specifically, we use multiple linear regression to understand the relationship between the independent variables (house features) and the dependent variable (house price). By building regression models, we can estimate the impact of different features on the house prices and make predictions about the value of a property based on its characteristics.
+To achieve the project objectives, we employ a regression modeling approach. Specifically, we use multiple linear regression to understand the relationship between the independent variables (house features) and the dependent variable (house price). By building regression models, we can estimate the impact of different features on house prices and make predictions about the value of a property based on its characteristics.
 
 ## Regression Results
 After exploring and refining multiple regression models, we present the findings of the final model. The model is evaluated based on appropriate metrics such as mean squared error (MSE) and R-squared to assess its performance and predictive accuracy. Additionally, we highlight the coefficients of the regression model to identify the features that have the most significant impact on house prices. By interpreting these coefficients, we can provide actionable insights and recommendations for the stakeholders.
@@ -35,7 +35,7 @@ For a more detailed exploration of the project, including the methodology, data 
 - `data/`: Folder containing the dataset file (kc_house_data.csv).
 - `notebooks/`: Folder containing Jupyter notebooks for data analysis, modeling, and visualization.
 - `utils/`: Folder containing any utility scripts or modules used in the project.
-- `README.md`: This documentation file summarizing the project and providing navigation instructions.
+- `README.md`: This documentation file summarizes the project and provides navigation instructions.
 - `presentation.pdf`: (Optional) Presentation slides summarizing the project's key findings and recommendations.
 
 ## Instructions
@@ -51,7 +51,6 @@ For a more detailed exploration of the project, including the methodology, data 
 
 The dataset used in this project is the King County House Sales dataset. You can find the dataset file (`kc_house_data.csv`) in the `data/` directory of this repository. For more information about the dataset and its column descriptions, refer to the dataset source.
 
-Dataset Source: [King County House Sales Dataset](https://example.com/dataset)
 
 ## External Libraries Used
 
@@ -60,4 +59,5 @@ Dataset Source: [King County House Sales Dataset](https://example.com/dataset)
 - Scikit-learn
 - Matplotlib
 - Seaborn
-
+## Presentation
+For a comprehensive presentation of the project, including the problem statement, data analysis, findings, and recommendations, please refer to https://www.canva.com/design/DAFnq94Q4_I/t4bYfugvy6gGr34Al93PVg/edit?utm_content=DAFnq94Q4_I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
