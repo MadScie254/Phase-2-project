@@ -60,4 +60,4 @@ The dataset used in this project is the King County House Sales dataset. You can
 - Matplotlib
 - Seaborn
 ## Presentation
-For a comprehensive presentation of the project, including the problem statement, data analysis, findings, and recommendations, please refer to https://www.canva.com/design/DAFnq94Q4_I/t4bYfugvy6gGr34Al93PVg/edit?utm_content=DAFnq94Q4_I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+For a comprehensive presentation of the project, including the problem statement, data analysis, findings, and recommendations, please refer to https://www.canva.com/design/DAFnq94Q4_I/suiiUETRyh6gkACjfCsLuA/view?utm_content=DAFnq94Q4_I&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
